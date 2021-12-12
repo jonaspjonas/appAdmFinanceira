@@ -1,0 +1,20 @@
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(138, 138, 245);
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.login-input-email, .login-input-senha {
+    
+}
